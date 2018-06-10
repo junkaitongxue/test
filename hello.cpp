@@ -4,4 +4,14 @@
 
 #include <string>
 
-int main(){printf("hello world\n");return 0:}
+int main(){
+  
+add();
+ 
+  
+printf("hello world\n");return 0;
+  
+}
+
+
+void add(){printf("add\n");
